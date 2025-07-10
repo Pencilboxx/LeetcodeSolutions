@@ -1,2 +1,2 @@
-# LeetcodeSolutions
-LeetCode solutions using C#
+# C# Code
+Solutions using C#
